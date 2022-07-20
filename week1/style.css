@@ -1,0 +1,34 @@
+/* change the style of header */
+header{
+    background-color: rgb(206, 119, 26);
+    font-family: 'Trebuchet MS';
+    padding: 15px;
+}
+
+/* change the style of p tag */
+p{
+    color: brown;
+    font-family: 'Franklin Gothic Medium';
+}
+
+/* change the style of title class */
+.title{
+    color: chocolate;
+}
+
+/* style for id */
+#container{
+    background-color: rgba(232, 165, 165, 0.638);
+    font-size: large;
+    border: 3px solid brown;
+}
+
+img{
+    height: 500px;
+    width: 800px;
+}
+
+#start{
+    font-size: large;
+    border: 3px solid brown;
+}
